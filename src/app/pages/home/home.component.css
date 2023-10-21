@@ -1,9 +1,3 @@
-header {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
 .container__articles {
   display: flex;
   justify-content: center;

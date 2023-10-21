@@ -1,0 +1,20 @@
+.container__content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  margin-top: 10px;
+}
+
+.container__content > a {
+  margin: 8px;
+}
+
+.content__cover > img {
+  border-radius: 4px;
+  width: 480px;
+}
+
+.content__description{
+  margin-top: 8px;
+}
