@@ -1,0 +1,12 @@
+.container__menu—bar {
+  margin: 8px;
+}
+
+.container__menu—bar > ul {
+  display: flex;
+  gap: 32px;
+}
+
+.container__menu—bar > ul > li {
+  list-style: none;
+}
